@@ -60,4 +60,8 @@ PANDIT RAO: ...same curiosity about the stars, and ourselves.
 ALL: (together) The stars, and the stories, are yours!
 (All bow. End.)
 
+------------------------------------------------------------------------------------------------------------------------
 
+The AI used remotion. Remotion lets you make videos using the React code.
+src/: The main code. The video’s React components, compositions (the individual videos/scenes), and the entry point are here.
+scripts/: Helper scripts, usually for things like rendering or automation tasks.
