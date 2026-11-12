@@ -1,0 +1,444 @@
+{
+ "duration": 30.249,
+ "lines": [
+  {
+   "who": "KABIR",
+   "text": "So who's right?",
+   "start": 0.35,
+   "end": 1.4,
+   "words": [
+    {
+     "w": "So",
+     "start": 0.35,
+     "end": 0.751
+    },
+    {
+     "w": "who's",
+     "start": 0.751,
+     "end": 0.975
+    },
+    {
+     "w": "right",
+     "start": 0.975,
+     "end": 1.4
+    }
+   ]
+  },
+  {
+   "who": "LIN",
+   "text": "Neither claims to be science. Both are ways of finding patterns in life.",
+   "start": 1.803,
+   "end": 6.791,
+   "words": [
+    {
+     "w": "Neither",
+     "start": 1.803,
+     "end": 2.109
+    },
+    {
+     "w": "claims",
+     "start": 2.122,
+     "end": 2.594
+    },
+    {
+     "w": "to",
+     "start": 2.607,
+     "end": 2.709
+    },
+    {
+     "w": "be",
+     "start": 2.722,
+     "end": 2.836
+    },
+    {
+     "w": "science",
+     "start": 2.849,
+     "end": 3.551
+    },
+    {
+     "w": "Both",
+     "start": 3.972,
+     "end": 4.38
+    },
+    {
+     "w": "are",
+     "start": 4.405,
+     "end": 4.622
+    },
+    {
+     "w": "ways",
+     "start": 4.635,
+     "end": 5.056
+    },
+    {
+     "w": "of",
+     "start": 5.069,
+     "end": 5.209
+    },
+    {
+     "w": "finding",
+     "start": 5.222,
+     "end": 5.63
+    },
+    {
+     "w": "patterns",
+     "start": 5.643,
+     "end": 6.14
+    },
+    {
+     "w": "in",
+     "start": 6.153,
+     "end": 6.306
+    },
+    {
+     "w": "life",
+     "start": 6.319,
+     "end": 6.791
+    }
+   ]
+  },
+  {
+   "who": "PANDIT",
+   "text": "Both come from thousands of years of people watching time, the sky, and each other.",
+   "start": 7.203,
+   "end": 12.291,
+   "words": [
+    {
+     "w": "Both",
+     "start": 7.203,
+     "end": 7.478
+    },
+    {
+     "w": "come",
+     "start": 7.478,
+     "end": 7.716
+    },
+    {
+     "w": "from",
+     "start": 7.716,
+     "end": 7.891
+    },
+    {
+     "w": "thousands",
+     "start": 7.891,
+     "end": 8.503
+    },
+    {
+     "w": "of",
+     "start": 8.516,
+     "end": 8.566
+    },
+    {
+     "w": "years",
+     "start": 8.566,
+     "end": 8.953
+    },
+    {
+     "w": "of",
+     "start": 8.966,
+     "end": 9.041
+    },
+    {
+     "w": "people",
+     "start": 9.041,
+     "end": 9.403
+    },
+    {
+     "w": "watching",
+     "start": 9.403,
+     "end": 9.816
+    },
+    {
+     "w": "time",
+     "start": 9.828,
+     "end": 10.278
+    },
+    {
+     "w": "the",
+     "start": 10.503,
+     "end": 10.603
+    },
+    {
+     "w": "sky",
+     "start": 10.603,
+     "end": 11.216
+    },
+    {
+     "w": "and",
+     "start": 11.628,
+     "end": 11.778
+    },
+    {
+     "w": "each",
+     "start": 11.778,
+     "end": 11.928
+    },
+    {
+     "w": "other",
+     "start": 11.928,
+     "end": 12.291
+    }
+   ]
+  },
+  {
+   "who": "ROHAN",
+   "text": "And both shape festivals. Diwali follows the lunar calendar, and Chinese New Year follows the animal cycle.",
+   "start": 12.669,
+   "end": 18.667,
+   "words": [
+    {
+     "w": "And",
+     "start": 12.669,
+     "end": 12.8
+    },
+    {
+     "w": "both",
+     "start": 12.811,
+     "end": 13.064
+    },
+    {
+     "w": "shape",
+     "start": 13.075,
+     "end": 13.393
+    },
+    {
+     "w": "festivals",
+     "start": 13.403,
+     "end": 14.083
+    },
+    {
+     "w": "Diwali",
+     "start": 14.423,
+     "end": 14.741
+    },
+    {
+     "w": "follows",
+     "start": 14.752,
+     "end": 15.191
+    },
+    {
+     "w": "the",
+     "start": 15.202,
+     "end": 15.3
+    },
+    {
+     "w": "lunar",
+     "start": 15.311,
+     "end": 15.553
+    },
+    {
+     "w": "calendar",
+     "start": 15.564,
+     "end": 16.112
+    },
+    {
+     "w": "and",
+     "start": 16.375,
+     "end": 16.572
+    },
+    {
+     "w": "Chinese",
+     "start": 16.583,
+     "end": 16.978
+    },
+    {
+     "w": "New",
+     "start": 16.989,
+     "end": 17.142
+    },
+    {
+     "w": "Year",
+     "start": 17.153,
+     "end": 17.362
+    },
+    {
+     "w": "follows",
+     "start": 17.373,
+     "end": 17.811
+    },
+    {
+     "w": "the",
+     "start": 17.822,
+     "end": 17.899
+    },
+    {
+     "w": "animal",
+     "start": 17.91,
+     "end": 18.206
+    },
+    {
+     "w": "cycle",
+     "start": 18.217,
+     "end": 18.667
+    }
+   ]
+  },
+  {
+   "who": "WEI",
+   "text": "So we're more alike than we thought.",
+   "start": 19.002,
+   "end": 20.676,
+   "words": [
+    {
+     "w": "So",
+     "start": 19.002,
+     "end": 19.202
+    },
+    {
+     "w": "we're",
+     "start": 19.202,
+     "end": 19.336
+    },
+    {
+     "w": "more",
+     "start": 19.336,
+     "end": 19.56
+    },
+    {
+     "w": "alike",
+     "start": 19.56,
+     "end": 19.928
+    },
+    {
+     "w": "than",
+     "start": 19.928,
+     "end": 20.073
+    },
+    {
+     "w": "we",
+     "start": 20.073,
+     "end": 20.196
+    },
+    {
+     "w": "thought",
+     "start": 20.196,
+     "end": 20.676
+    }
+   ]
+  },
+  {
+   "who": "AARAV",
+   "text": "Fine. Chinese wins on cool animals.",
+   "start": 21.117,
+   "end": 23.262,
+   "words": [
+    {
+     "w": "Fine",
+     "start": 21.117,
+     "end": 21.408
+    },
+    {
+     "w": "Chinese",
+     "start": 21.753,
+     "end": 22.066
+    },
+    {
+     "w": "wins",
+     "start": 22.066,
+     "end": 22.378
+    },
+    {
+     "w": "on",
+     "start": 22.389,
+     "end": 22.508
+    },
+    {
+     "w": "cool",
+     "start": 22.508,
+     "end": 22.766
+    },
+    {
+     "w": "animals",
+     "start": 22.777,
+     "end": 23.262
+    }
+   ]
+  },
+  {
+   "who": "AARAV",
+   "text": "Indian wins on drama.",
+   "start": 24.068,
+   "end": 25.243,
+   "words": [
+    {
+     "w": "Indian",
+     "start": 24.068,
+     "end": 24.359
+    },
+    {
+     "w": "wins",
+     "start": 24.359,
+     "end": 24.704
+    },
+    {
+     "w": "on",
+     "start": 24.704,
+     "end": 24.801
+    },
+    {
+     "w": "drama",
+     "start": 24.801,
+     "end": 25.243
+    }
+   ]
+  },
+  {
+   "who": "KABIR",
+   "text": "I'm still not convinced. But the Rat-on-the-Ox story is great.",
+   "start": 25.688,
+   "end": 29.379,
+   "words": [
+    {
+     "w": "I'm",
+     "start": 25.688,
+     "end": 25.947
+    },
+    {
+     "w": "still",
+     "start": 25.947,
+     "end": 26.289
+    },
+    {
+     "w": "not",
+     "start": 26.289,
+     "end": 26.501
+    },
+    {
+     "w": "convinced",
+     "start": 26.501,
+     "end": 27.126
+    },
+    {
+     "w": "But",
+     "start": 27.445,
+     "end": 27.645
+    },
+    {
+     "w": "the",
+     "start": 27.645,
+     "end": 27.728
+    },
+    {
+     "w": "Rat-on-the-Ox",
+     "start": 27.728,
+     "end": 28.364
+    },
+    {
+     "w": "story",
+     "start": 28.364,
+     "end": 28.765
+    },
+    {
+     "w": "is",
+     "start": 28.765,
+     "end": 28.919
+    },
+    {
+     "w": "great",
+     "start": 28.919,
+     "end": 29.379
+    }
+   ]
+  }
+ ]
+}

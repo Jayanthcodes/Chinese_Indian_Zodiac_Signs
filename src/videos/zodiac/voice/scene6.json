@@ -1,0 +1,266 @@
+{
+ "duration": 17.011,
+ "lines": [
+  {
+   "who": "ROHAN",
+   "text": "So, your turn. Are you a Dragon or a Simha?",
+   "start": 0.348,
+   "end": 2.921,
+   "words": [
+    {
+     "w": "So",
+     "start": 0.348,
+     "end": 0.568
+    },
+    {
+     "w": "your",
+     "start": 0.59,
+     "end": 0.765
+    },
+    {
+     "w": "turn",
+     "start": 0.776,
+     "end": 1.182
+    },
+    {
+     "w": "Are",
+     "start": 1.528,
+     "end": 1.616
+    },
+    {
+     "w": "you",
+     "start": 1.627,
+     "end": 1.736
+    },
+    {
+     "w": "a",
+     "start": 1.747,
+     "end": 1.802
+    },
+    {
+     "w": "Dragon",
+     "start": 1.813,
+     "end": 2.339
+    },
+    {
+     "w": "or",
+     "start": 2.35,
+     "end": 2.471
+    },
+    {
+     "w": "a",
+     "start": 2.482,
+     "end": 2.537
+    },
+    {
+     "w": "Simha",
+     "start": 2.548,
+     "end": 2.921
+    }
+   ]
+  },
+  {
+   "who": "WEI",
+   "text": "A Rat or a Cancer?",
+   "start": 3.228,
+   "end": 4.657,
+   "words": [
+    {
+     "w": "A",
+     "start": 3.228,
+     "end": 3.384
+    },
+    {
+     "w": "Rat",
+     "start": 3.384,
+     "end": 3.797
+    },
+    {
+     "w": "or",
+     "start": 3.875,
+     "end": 4.02
+    },
+    {
+     "w": "a",
+     "start": 4.02,
+     "end": 4.076
+    },
+    {
+     "w": "Cancer",
+     "start": 4.076,
+     "end": 4.657
+    }
+   ]
+  },
+  {
+   "who": "AARAV",
+   "text": "Or still confused like me?",
+   "start": 5.0,
+   "end": 6.24,
+   "words": [
+    {
+     "w": "Or",
+     "start": 5.0,
+     "end": 5.054
+    },
+    {
+     "w": "still",
+     "start": 5.054,
+     "end": 5.248
+    },
+    {
+     "w": "confused",
+     "start": 5.259,
+     "end": 5.852
+    },
+    {
+     "w": "like",
+     "start": 5.852,
+     "end": 6.035
+    },
+    {
+     "w": "me",
+     "start": 6.035,
+     "end": 6.24
+    }
+   ]
+  },
+  {
+   "who": "KABIR",
+   "text": "Even I'll admit it's fun.",
+   "start": 6.63,
+   "end": 8.139,
+   "words": [
+    {
+     "w": "Even",
+     "start": 6.63,
+     "end": 6.983
+    },
+    {
+     "w": "I'll",
+     "start": 6.983,
+     "end": 7.278
+    },
+    {
+     "w": "admit",
+     "start": 7.278,
+     "end": 7.549
+    },
+    {
+     "w": "it's",
+     "start": 7.549,
+     "end": 7.726
+    },
+    {
+     "w": "fun",
+     "start": 7.726,
+     "end": 8.139
+    }
+   ]
+  },
+  {
+   "who": "LIN",
+   "text": "Different roads...",
+   "start": 8.568,
+   "end": 9.487,
+   "words": [
+    {
+     "w": "Different",
+     "start": 8.568,
+     "end": 8.925
+    },
+    {
+     "w": "roads",
+     "start": 8.938,
+     "end": 9.487
+    }
+   ]
+  },
+  {
+   "who": "PANDIT",
+   "text": "...same curiosity about the stars, and ourselves.",
+   "start": 9.867,
+   "end": 12.767,
+   "words": [
+    {
+     "w": "same",
+     "start": 9.867,
+     "end": 10.129
+    },
+    {
+     "w": "curiosity",
+     "start": 10.192,
+     "end": 10.979
+    },
+    {
+     "w": "about",
+     "start": 10.979,
+     "end": 11.217
+    },
+    {
+     "w": "the",
+     "start": 11.217,
+     "end": 11.279
+    },
+    {
+     "w": "stars",
+     "start": 11.292,
+     "end": 11.842
+    },
+    {
+     "w": "and",
+     "start": 11.842,
+     "end": 11.942
+    },
+    {
+     "w": "ourselves",
+     "start": 11.942,
+     "end": 12.767
+    }
+   ]
+  },
+  {
+   "who": "ALL",
+   "text": "The stars, and the stories, are yours!",
+   "start": 13.172,
+   "end": 15.541,
+   "words": [
+    {
+     "w": "The",
+     "start": 13.172,
+     "end": 13.227
+    },
+    {
+     "w": "stars",
+     "start": 13.238,
+     "end": 13.808
+    },
+    {
+     "w": "and",
+     "start": 14.126,
+     "end": 14.247
+    },
+    {
+     "w": "the",
+     "start": 14.258,
+     "end": 14.324
+    },
+    {
+     "w": "stories",
+     "start": 14.335,
+     "end": 14.861
+    },
+    {
+     "w": "are",
+     "start": 14.872,
+     "end": 15.004
+    },
+    {
+     "w": "yours",
+     "start": 15.014,
+     "end": 15.541
+    }
+   ]
+  }
+ ]
+}

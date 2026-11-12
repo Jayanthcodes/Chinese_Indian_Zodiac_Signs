@@ -1,0 +1,498 @@
+{
+ "duration": 40.139,
+ "lines": [
+  {
+   "who": "LIN",
+   "text": "In Chinese astrology, your sign depends on your birth year. There are twelve animals: Rat, Ox, Tiger, Rabbit, Dragon, Snake, Horse, Goat, Monkey, Rooster, Dog, Pig.",
+   "start": 0.389,
+   "end": 16.155,
+   "words": [
+    {
+     "w": "In",
+     "start": 0.389,
+     "end": 0.504
+    },
+    {
+     "w": "Chinese",
+     "start": 0.517,
+     "end": 0.963
+    },
+    {
+     "w": "astrology",
+     "start": 0.976,
+     "end": 1.703
+    },
+    {
+     "w": "your",
+     "start": 1.971,
+     "end": 2.086
+    },
+    {
+     "w": "sign",
+     "start": 2.098,
+     "end": 2.468
+    },
+    {
+     "w": "depends",
+     "start": 2.481,
+     "end": 2.928
+    },
+    {
+     "w": "on",
+     "start": 2.94,
+     "end": 3.132
+    },
+    {
+     "w": "your",
+     "start": 3.144,
+     "end": 3.272
+    },
+    {
+     "w": "birth",
+     "start": 3.285,
+     "end": 3.553
+    },
+    {
+     "w": "year",
+     "start": 3.565,
+     "end": 3.884
+    },
+    {
+     "w": "There",
+     "start": 4.292,
+     "end": 4.394
+    },
+    {
+     "w": "are",
+     "start": 4.407,
+     "end": 4.471
+    },
+    {
+     "w": "twelve",
+     "start": 4.484,
+     "end": 4.803
+    },
+    {
+     "w": "animals",
+     "start": 4.815,
+     "end": 5.313
+    },
+    {
+     "w": "Rat",
+     "start": 5.989,
+     "end": 6.295
+    },
+    {
+     "w": "Ox",
+     "start": 6.907,
+     "end": 7.315
+    },
+    {
+     "w": "Tiger",
+     "start": 7.736,
+     "end": 8.195
+    },
+    {
+     "w": "Rabbit",
+     "start": 8.744,
+     "end": 9.139
+    },
+    {
+     "w": "Dragon",
+     "start": 9.573,
+     "end": 10.07
+    },
+    {
+     "w": "Snake",
+     "start": 10.555,
+     "end": 11.001
+    },
+    {
+     "w": "Horse",
+     "start": 11.55,
+     "end": 11.945
+    },
+    {
+     "w": "Goat",
+     "start": 12.392,
+     "end": 12.698
+    },
+    {
+     "w": "Monkey",
+     "start": 13.272,
+     "end": 13.718
+    },
+    {
+     "w": "Rooster",
+     "start": 14.203,
+     "end": 14.649
+    },
+    {
+     "w": "Dog",
+     "start": 15.019,
+     "end": 15.402
+    },
+    {
+     "w": "Pig",
+     "start": 15.797,
+     "end": 16.155
+    }
+   ]
+  },
+  {
+   "who": "KABIR",
+   "text": "Why those animals?",
+   "start": 16.545,
+   "end": 17.795,
+   "words": [
+    {
+     "w": "Why",
+     "start": 16.545,
+     "end": 16.91
+    },
+    {
+     "w": "those",
+     "start": 16.91,
+     "end": 17.193
+    },
+    {
+     "w": "animals",
+     "start": 17.193,
+     "end": 17.795
+    }
+   ]
+  },
+  {
+   "who": "LIN",
+   "text": "A legend. The Jade Emperor held a river race, and the first twelve animals to finish got a year named after them.",
+   "start": 18.143,
+   "end": 24.929,
+   "words": [
+    {
+     "w": "A",
+     "start": 18.143,
+     "end": 18.22
+    },
+    {
+     "w": "legend",
+     "start": 18.233,
+     "end": 18.794
+    },
+    {
+     "w": "The",
+     "start": 19.176,
+     "end": 19.266
+    },
+    {
+     "w": "Jade",
+     "start": 19.279,
+     "end": 19.572
+    },
+    {
+     "w": "Emperor",
+     "start": 19.585,
+     "end": 19.993
+    },
+    {
+     "w": "held",
+     "start": 20.006,
+     "end": 20.261
+    },
+    {
+     "w": "a",
+     "start": 20.273,
+     "end": 20.312
+    },
+    {
+     "w": "river",
+     "start": 20.324,
+     "end": 20.669
+    },
+    {
+     "w": "race",
+     "start": 20.682,
+     "end": 21.154
+    },
+    {
+     "w": "and",
+     "start": 21.472,
+     "end": 21.664
+    },
+    {
+     "w": "the",
+     "start": 21.676,
+     "end": 21.766
+    },
+    {
+     "w": "first",
+     "start": 21.779,
+     "end": 22.123
+    },
+    {
+     "w": "twelve",
+     "start": 22.136,
+     "end": 22.442
+    },
+    {
+     "w": "animals",
+     "start": 22.455,
+     "end": 22.888
+    },
+    {
+     "w": "to",
+     "start": 22.901,
+     "end": 22.99
+    },
+    {
+     "w": "finish",
+     "start": 23.003,
+     "end": 23.386
+    },
+    {
+     "w": "got",
+     "start": 23.398,
+     "end": 23.577
+    },
+    {
+     "w": "a",
+     "start": 23.59,
+     "end": 23.641
+    },
+    {
+     "w": "year",
+     "start": 23.654,
+     "end": 23.972
+    },
+    {
+     "w": "named",
+     "start": 23.985,
+     "end": 24.317
+    },
+    {
+     "w": "after",
+     "start": 24.33,
+     "end": 24.636
+    },
+    {
+     "w": "them",
+     "start": 24.648,
+     "end": 24.929
+    }
+   ]
+  },
+  {
+   "who": "WEI",
+   "text": "The Rat won by riding on the Ox, then jumping off right at the finish line!",
+   "start": 25.292,
+   "end": 29.488,
+   "words": [
+    {
+     "w": "The",
+     "start": 25.292,
+     "end": 25.448
+    },
+    {
+     "w": "Rat",
+     "start": 25.448,
+     "end": 25.704
+    },
+    {
+     "w": "won",
+     "start": 25.704,
+     "end": 25.983
+    },
+    {
+     "w": "by",
+     "start": 25.983,
+     "end": 26.151
+    },
+    {
+     "w": "riding",
+     "start": 26.151,
+     "end": 26.508
+    },
+    {
+     "w": "on",
+     "start": 26.508,
+     "end": 26.586
+    },
+    {
+     "w": "the",
+     "start": 26.586,
+     "end": 26.687
+    },
+    {
+     "w": "Ox",
+     "start": 26.687,
+     "end": 27.122
+    },
+    {
+     "w": "then",
+     "start": 27.568,
+     "end": 27.78
+    },
+    {
+     "w": "jumping",
+     "start": 27.78,
+     "end": 28.104
+    },
+    {
+     "w": "off",
+     "start": 28.104,
+     "end": 28.294
+    },
+    {
+     "w": "right",
+     "start": 28.294,
+     "end": 28.651
+    },
+    {
+     "w": "at",
+     "start": 28.651,
+     "end": 28.74
+    },
+    {
+     "w": "the",
+     "start": 28.74,
+     "end": 28.807
+    },
+    {
+     "w": "finish",
+     "start": 28.807,
+     "end": 29.086
+    },
+    {
+     "w": "line",
+     "start": 29.086,
+     "end": 29.488
+    }
+   ]
+  },
+  {
+   "who": "AARAV",
+   "text": "That's cheating!",
+   "start": 29.815,
+   "end": 30.332,
+   "words": [
+    {
+     "w": "That's",
+     "start": 29.815,
+     "end": 29.933
+    },
+    {
+     "w": "cheating",
+     "start": 29.944,
+     "end": 30.332
+    }
+   ]
+  },
+  {
+   "who": "LIN",
+   "text": "That's clever. The cycle repeats every twelve years, and five elements, Wood, Fire, Earth, Metal and Water, add more layers.",
+   "start": 30.736,
+   "end": 39.269,
+   "words": [
+    {
+     "w": "That's",
+     "start": 30.736,
+     "end": 30.965
+    },
+    {
+     "w": "clever",
+     "start": 30.978,
+     "end": 31.514
+    },
+    {
+     "w": "The",
+     "start": 31.909,
+     "end": 31.973
+    },
+    {
+     "w": "cycle",
+     "start": 31.986,
+     "end": 32.356
+    },
+    {
+     "w": "repeats",
+     "start": 32.369,
+     "end": 32.789
+    },
+    {
+     "w": "every",
+     "start": 32.815,
+     "end": 33.057
+    },
+    {
+     "w": "twelve",
+     "start": 33.07,
+     "end": 33.351
+    },
+    {
+     "w": "years",
+     "start": 33.363,
+     "end": 33.759
+    },
+    {
+     "w": "and",
+     "start": 33.784,
+     "end": 33.925
+    },
+    {
+     "w": "five",
+     "start": 33.937,
+     "end": 34.244
+    },
+    {
+     "w": "elements",
+     "start": 34.256,
+     "end": 34.766
+    },
+    {
+     "w": "Wood",
+     "start": 34.792,
+     "end": 35.136
+    },
+    {
+     "w": "Fire",
+     "start": 35.545,
+     "end": 36.157
+    },
+    {
+     "w": "Earth",
+     "start": 36.182,
+     "end": 36.654
+    },
+    {
+     "w": "Metal",
+     "start": 36.884,
+     "end": 37.33
+    },
+    {
+     "w": "and",
+     "start": 37.343,
+     "end": 37.458
+    },
+    {
+     "w": "Water",
+     "start": 37.471,
+     "end": 37.943
+    },
+    {
+     "w": "add",
+     "start": 38.249,
+     "end": 38.478
+    },
+    {
+     "w": "more",
+     "start": 38.491,
+     "end": 38.708
+    },
+    {
+     "w": "layers",
+     "start": 38.721,
+     "end": 39.269
+    }
+   ]
+  }
+ ]
+}

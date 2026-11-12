@@ -1,0 +1,436 @@
+{
+ "duration": 32.756,
+ "lines": [
+  {
+   "who": "ROHAN",
+   "text": "So Chinese astrology is about time, your birth year. Indian astrology is about sky position, your Moon and planets.",
+   "start": 0.347,
+   "end": 6.824,
+   "words": [
+    {
+     "w": "So",
+     "start": 0.347,
+     "end": 0.489
+    },
+    {
+     "w": "Chinese",
+     "start": 0.5,
+     "end": 0.862
+    },
+    {
+     "w": "astrology",
+     "start": 0.873,
+     "end": 1.465
+    },
+    {
+     "w": "is",
+     "start": 1.476,
+     "end": 1.597
+    },
+    {
+     "w": "about",
+     "start": 1.608,
+     "end": 1.871
+    },
+    {
+     "w": "time",
+     "start": 1.882,
+     "end": 2.277
+    },
+    {
+     "w": "your",
+     "start": 2.299,
+     "end": 2.463
+    },
+    {
+     "w": "birth",
+     "start": 2.474,
+     "end": 2.737
+    },
+    {
+     "w": "year",
+     "start": 2.748,
+     "end": 3.044
+    },
+    {
+     "w": "Indian",
+     "start": 3.392,
+     "end": 3.644
+    },
+    {
+     "w": "astrology",
+     "start": 3.655,
+     "end": 4.28
+    },
+    {
+     "w": "is",
+     "start": 4.291,
+     "end": 4.412
+    },
+    {
+     "w": "about",
+     "start": 4.423,
+     "end": 4.686
+    },
+    {
+     "w": "sky",
+     "start": 4.697,
+     "end": 4.982
+    },
+    {
+     "w": "position",
+     "start": 4.993,
+     "end": 5.53
+    },
+    {
+     "w": "your",
+     "start": 5.552,
+     "end": 5.717
+    },
+    {
+     "w": "Moon",
+     "start": 5.728,
+     "end": 6.1
+    },
+    {
+     "w": "and",
+     "start": 6.111,
+     "end": 6.254
+    },
+    {
+     "w": "planets",
+     "start": 6.265,
+     "end": 6.824
+    }
+   ]
+  },
+  {
+   "who": "WEI",
+   "text": "Mine is simple. One animal, one year.",
+   "start": 7.187,
+   "end": 10.367,
+   "words": [
+    {
+     "w": "Mine",
+     "start": 7.187,
+     "end": 7.588
+    },
+    {
+     "w": "is",
+     "start": 7.588,
+     "end": 7.745
+    },
+    {
+     "w": "simple",
+     "start": 7.745,
+     "end": 8.336
+    },
+    {
+     "w": "One",
+     "start": 8.637,
+     "end": 8.961
+    },
+    {
+     "w": "animal",
+     "start": 8.961,
+     "end": 9.497
+    },
+    {
+     "w": "one",
+     "start": 9.664,
+     "end": 9.932
+    },
+    {
+     "w": "year",
+     "start": 9.932,
+     "end": 10.367
+    }
+   ]
+  },
+  {
+   "who": "AARAV",
+   "text": "Mine is detailed. Moon, planets, houses, everything.",
+   "start": 10.711,
+   "end": 13.847,
+   "words": [
+    {
+     "w": "Mine",
+     "start": 10.711,
+     "end": 10.883
+    },
+    {
+     "w": "is",
+     "start": 10.883,
+     "end": 10.98
+    },
+    {
+     "w": "detailed",
+     "start": 10.991,
+     "end": 11.455
+    },
+    {
+     "w": "Moon",
+     "start": 11.81,
+     "end": 12.112
+    },
+    {
+     "w": "planets",
+     "start": 12.306,
+     "end": 12.823
+    },
+    {
+     "w": "houses",
+     "start": 12.899,
+     "end": 13.373
+    },
+    {
+     "w": "everything",
+     "start": 13.383,
+     "end": 13.847
+    }
+   ]
+  },
+  {
+   "who": "KABIR",
+   "text": "But both predict personality and compatibility.",
+   "start": 14.209,
+   "end": 16.745,
+   "words": [
+    {
+     "w": "But",
+     "start": 14.209,
+     "end": 14.433
+    },
+    {
+     "w": "both",
+     "start": 14.433,
+     "end": 14.693
+    },
+    {
+     "w": "predict",
+     "start": 14.693,
+     "end": 15.035
+    },
+    {
+     "w": "personality",
+     "start": 15.035,
+     "end": 15.754
+    },
+    {
+     "w": "and",
+     "start": 15.754,
+     "end": 15.931
+    },
+    {
+     "w": "compatibility",
+     "start": 15.931,
+     "end": 16.745
+    }
+   ]
+  },
+  {
+   "who": "ROHAN",
+   "text": "Right! India has Kundli Milan before weddings. China checks animal compatibility, like Dragon with Rooster.",
+   "start": 17.074,
+   "end": 23.554,
+   "words": [
+    {
+     "w": "Right",
+     "start": 17.074,
+     "end": 17.293
+    },
+    {
+     "w": "India",
+     "start": 17.633,
+     "end": 17.929
+    },
+    {
+     "w": "has",
+     "start": 17.94,
+     "end": 18.148
+    },
+    {
+     "w": "Kundli",
+     "start": 18.159,
+     "end": 18.488
+    },
+    {
+     "w": "Milan",
+     "start": 18.499,
+     "end": 18.905
+    },
+    {
+     "w": "before",
+     "start": 18.916,
+     "end": 19.234
+    },
+    {
+     "w": "weddings",
+     "start": 19.245,
+     "end": 19.727
+    },
+    {
+     "w": "China",
+     "start": 20.067,
+     "end": 20.352
+    },
+    {
+     "w": "checks",
+     "start": 20.363,
+     "end": 20.692
+    },
+    {
+     "w": "animal",
+     "start": 20.703,
+     "end": 21.032
+    },
+    {
+     "w": "compatibility",
+     "start": 21.043,
+     "end": 21.821
+    },
+    {
+     "w": "like",
+     "start": 22.249,
+     "end": 22.457
+    },
+    {
+     "w": "Dragon",
+     "start": 22.468,
+     "end": 22.874
+    },
+    {
+     "w": "with",
+     "start": 22.885,
+     "end": 23.06
+    },
+    {
+     "w": "Rooster",
+     "start": 23.071,
+     "end": 23.554
+    }
+   ]
+  },
+  {
+   "who": "WEI",
+   "text": "And some pairs are bad luck. Tiger and Monkey, for example.",
+   "start": 23.889,
+   "end": 27.951,
+   "words": [
+    {
+     "w": "And",
+     "start": 23.889,
+     "end": 24.112
+    },
+    {
+     "w": "some",
+     "start": 24.112,
+     "end": 24.346
+    },
+    {
+     "w": "pairs",
+     "start": 24.346,
+     "end": 24.737
+    },
+    {
+     "w": "are",
+     "start": 24.737,
+     "end": 24.949
+    },
+    {
+     "w": "bad",
+     "start": 24.949,
+     "end": 25.228
+    },
+    {
+     "w": "luck",
+     "start": 25.228,
+     "end": 25.675
+    },
+    {
+     "w": "Tiger",
+     "start": 25.976,
+     "end": 26.5
+    },
+    {
+     "w": "and",
+     "start": 26.5,
+     "end": 26.657
+    },
+    {
+     "w": "Monkey",
+     "start": 26.657,
+     "end": 27.181
+    },
+    {
+     "w": "for",
+     "start": 27.181,
+     "end": 27.326
+    },
+    {
+     "w": "example",
+     "start": 27.326,
+     "end": 27.951
+    }
+   ]
+  },
+  {
+   "who": "AARAV",
+   "text": "We have Manglik Dosha. Half of India panics over it.",
+   "start": 28.312,
+   "end": 31.286,
+   "words": [
+    {
+     "w": "We",
+     "start": 28.312,
+     "end": 28.387
+    },
+    {
+     "w": "have",
+     "start": 28.387,
+     "end": 28.549
+    },
+    {
+     "w": "Manglik",
+     "start": 28.549,
+     "end": 28.904
+    },
+    {
+     "w": "Dosha",
+     "start": 28.904,
+     "end": 29.314
+    },
+    {
+     "w": "Half",
+     "start": 29.67,
+     "end": 29.971
+    },
+    {
+     "w": "of",
+     "start": 30.079,
+     "end": 30.219
+    },
+    {
+     "w": "India",
+     "start": 30.316,
+     "end": 30.575
+    },
+    {
+     "w": "panics",
+     "start": 30.585,
+     "end": 30.952
+    },
+    {
+     "w": "over",
+     "start": 30.963,
+     "end": 31.178
+    },
+    {
+     "w": "it",
+     "start": 31.189,
+     "end": 31.286
+    }
+   ]
+  }
+ ]
+}

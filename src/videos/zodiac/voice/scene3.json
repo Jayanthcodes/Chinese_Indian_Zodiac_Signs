@@ -1,0 +1,498 @@
+{
+ "duration": 36.57,
+ "lines": [
+  {
+   "who": "PANDIT",
+   "text": "In Vedic astrology, your sign depends on the position of the Moon at your birth. That is your Chandra Rashi.",
+   "start": 0.387,
+   "end": 6.688,
+   "words": [
+    {
+     "w": "In",
+     "start": 0.387,
+     "end": 0.487
+    },
+    {
+     "w": "Vedic",
+     "start": 0.5,
+     "end": 0.825
+    },
+    {
+     "w": "astrology",
+     "start": 0.825,
+     "end": 1.463
+    },
+    {
+     "w": "your",
+     "start": 1.887,
+     "end": 2.025
+    },
+    {
+     "w": "sign",
+     "start": 2.025,
+     "end": 2.525
+    },
+    {
+     "w": "depends",
+     "start": 2.637,
+     "end": 3.025
+    },
+    {
+     "w": "on",
+     "start": 3.025,
+     "end": 3.1
+    },
+    {
+     "w": "the",
+     "start": 3.1,
+     "end": 3.162
+    },
+    {
+     "w": "position",
+     "start": 3.175,
+     "end": 3.7
+    },
+    {
+     "w": "of",
+     "start": 3.7,
+     "end": 3.775
+    },
+    {
+     "w": "the",
+     "start": 3.775,
+     "end": 3.837
+    },
+    {
+     "w": "Moon",
+     "start": 3.85,
+     "end": 4.225
+    },
+    {
+     "w": "at",
+     "start": 4.375,
+     "end": 4.5
+    },
+    {
+     "w": "your",
+     "start": 4.513,
+     "end": 4.6
+    },
+    {
+     "w": "birth",
+     "start": 4.6,
+     "end": 5.075
+    },
+    {
+     "w": "That",
+     "start": 5.487,
+     "end": 5.587
+    },
+    {
+     "w": "is",
+     "start": 5.587,
+     "end": 5.687
+    },
+    {
+     "w": "your",
+     "start": 5.688,
+     "end": 5.775
+    },
+    {
+     "w": "Chandra",
+     "start": 5.775,
+     "end": 6.162
+    },
+    {
+     "w": "Rashi",
+     "start": 6.175,
+     "end": 6.688
+    }
+   ]
+  },
+  {
+   "who": "AARAV",
+   "text": "We have twelve Rashis too: Mesha, Vrishabha, Mithuna, Karka, Simha, and more.",
+   "start": 7.086,
+   "end": 12.722,
+   "words": [
+    {
+     "w": "We",
+     "start": 7.086,
+     "end": 7.162
+    },
+    {
+     "w": "have",
+     "start": 7.162,
+     "end": 7.28
+    },
+    {
+     "w": "twelve",
+     "start": 7.28,
+     "end": 7.528
+    },
+    {
+     "w": "Rashis",
+     "start": 7.539,
+     "end": 7.894
+    },
+    {
+     "w": "too",
+     "start": 7.905,
+     "end": 8.153
+    },
+    {
+     "w": "Mesha",
+     "start": 8.67,
+     "end": 9.069
+    },
+    {
+     "w": "Vrishabha",
+     "start": 9.284,
+     "end": 9.834
+    },
+    {
+     "w": "Mithuna",
+     "start": 10.19,
+     "end": 10.696
+    },
+    {
+     "w": "Karka",
+     "start": 10.933,
+     "end": 11.386
+    },
+    {
+     "w": "Simha",
+     "start": 11.623,
+     "end": 12.075
+    },
+    {
+     "w": "and",
+     "start": 12.28,
+     "end": 12.366
+    },
+    {
+     "w": "more",
+     "start": 12.377,
+     "end": 12.722
+    }
+   ]
+  },
+  {
+   "who": "KABIR",
+   "text": "So twelve and twelve. Same thing?",
+   "start": 13.057,
+   "end": 15.675,
+   "words": [
+    {
+     "w": "So",
+     "start": 13.057,
+     "end": 13.423
+    },
+    {
+     "w": "twelve",
+     "start": 13.423,
+     "end": 13.859
+    },
+    {
+     "w": "and",
+     "start": 13.859,
+     "end": 14.012
+    },
+    {
+     "w": "twelve",
+     "start": 14.012,
+     "end": 14.531
+    },
+    {
+     "w": "Same",
+     "start": 14.849,
+     "end": 15.25
+    },
+    {
+     "w": "thing",
+     "start": 15.25,
+     "end": 15.675
+    }
+   ]
+  },
+  {
+   "who": "PANDIT",
+   "text": "Not quite. We also have twenty-seven Nakshatras, nine planets called the Navagraha, and a full birth chart, the Kundli. We use the sidereal zodiac, based on the stars' actual positions, so many people's signs shift by one from the Western system.",
+   "start": 16.075,
+   "end": 31.787,
+   "words": [
+    {
+     "w": "Not",
+     "start": 16.075,
+     "end": 16.237
+    },
+    {
+     "w": "quite",
+     "start": 16.25,
+     "end": 16.625
+    },
+    {
+     "w": "We",
+     "start": 17.025,
+     "end": 17.15
+    },
+    {
+     "w": "also",
+     "start": 17.15,
+     "end": 17.425
+    },
+    {
+     "w": "have",
+     "start": 17.425,
+     "end": 17.637
+    },
+    {
+     "w": "twenty-seven",
+     "start": 17.65,
+     "end": 18.262
+    },
+    {
+     "w": "Nakshatras",
+     "start": 18.275,
+     "end": 19.25
+    },
+    {
+     "w": "nine",
+     "start": 19.662,
+     "end": 20.037
+    },
+    {
+     "w": "planets",
+     "start": 20.037,
+     "end": 20.425
+    },
+    {
+     "w": "called",
+     "start": 20.425,
+     "end": 20.612
+    },
+    {
+     "w": "the",
+     "start": 20.612,
+     "end": 20.65
+    },
+    {
+     "w": "Navagraha",
+     "start": 20.65,
+     "end": 21.375
+    },
+    {
+     "w": "and",
+     "start": 21.825,
+     "end": 22.137
+    },
+    {
+     "w": "a",
+     "start": 22.262,
+     "end": 22.3
+    },
+    {
+     "w": "full",
+     "start": 22.3,
+     "end": 22.65
+    },
+    {
+     "w": "birth",
+     "start": 22.65,
+     "end": 22.95
+    },
+    {
+     "w": "chart",
+     "start": 22.95,
+     "end": 23.287
+    },
+    {
+     "w": "the",
+     "start": 23.687,
+     "end": 23.762
+    },
+    {
+     "w": "Kundli",
+     "start": 23.762,
+     "end": 24.262
+    },
+    {
+     "w": "We",
+     "start": 24.675,
+     "end": 24.787
+    },
+    {
+     "w": "use",
+     "start": 24.787,
+     "end": 24.987
+    },
+    {
+     "w": "the",
+     "start": 24.987,
+     "end": 25.075
+    },
+    {
+     "w": "sidereal",
+     "start": 25.075,
+     "end": 25.7
+    },
+    {
+     "w": "zodiac",
+     "start": 25.7,
+     "end": 26.375
+    },
+    {
+     "w": "based",
+     "start": 26.575,
+     "end": 26.85
+    },
+    {
+     "w": "on",
+     "start": 26.85,
+     "end": 26.9
+    },
+    {
+     "w": "the",
+     "start": 26.9,
+     "end": 26.95
+    },
+    {
+     "w": "stars'",
+     "start": 26.95,
+     "end": 27.375
+    },
+    {
+     "w": "actual",
+     "start": 27.387,
+     "end": 27.75
+    },
+    {
+     "w": "positions",
+     "start": 27.762,
+     "end": 28.425
+    },
+    {
+     "w": "so",
+     "start": 28.687,
+     "end": 28.887
+    },
+    {
+     "w": "many",
+     "start": 28.887,
+     "end": 29.112
+    },
+    {
+     "w": "people's",
+     "start": 29.125,
+     "end": 29.5
+    },
+    {
+     "w": "signs",
+     "start": 29.5,
+     "end": 29.85
+    },
+    {
+     "w": "shift",
+     "start": 29.85,
+     "end": 30.312
+    },
+    {
+     "w": "by",
+     "start": 30.325,
+     "end": 30.475
+    },
+    {
+     "w": "one",
+     "start": 30.475,
+     "end": 30.812
+    },
+    {
+     "w": "from",
+     "start": 30.825,
+     "end": 30.95
+    },
+    {
+     "w": "the",
+     "start": 30.95,
+     "end": 31.0
+    },
+    {
+     "w": "Western",
+     "start": 31.0,
+     "end": 31.337
+    },
+    {
+     "w": "system",
+     "start": 31.35,
+     "end": 31.787
+    }
+   ]
+  },
+  {
+   "who": "AARAV",
+   "text": "Wait. I might not be a Leo?",
+   "start": 32.214,
+   "end": 33.593,
+   "words": [
+    {
+     "w": "Wait",
+     "start": 32.214,
+     "end": 32.483
+    },
+    {
+     "w": "I",
+     "start": 32.817,
+     "end": 32.839
+    },
+    {
+     "w": "might",
+     "start": 32.839,
+     "end": 32.957
+    },
+    {
+     "w": "not",
+     "start": 32.957,
+     "end": 33.054
+    },
+    {
+     "w": "be",
+     "start": 33.054,
+     "end": 33.13
+    },
+    {
+     "w": "a",
+     "start": 33.14,
+     "end": 33.194
+    },
+    {
+     "w": "Leo",
+     "start": 33.194,
+     "end": 33.593
+    }
+   ]
+  },
+  {
+   "who": "PANDIT",
+   "text": "Possibly a Cancer.",
+   "start": 34.263,
+   "end": 35.25,
+   "words": [
+    {
+     "w": "Possibly",
+     "start": 34.263,
+     "end": 34.663
+    },
+    {
+     "w": "a",
+     "start": 34.675,
+     "end": 34.713
+    },
+    {
+     "w": "Cancer",
+     "start": 34.713,
+     "end": 35.25
+    }
+   ]
+  }
+ ]
+}

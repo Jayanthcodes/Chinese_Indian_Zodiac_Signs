@@ -1,0 +1,318 @@
+{
+ "duration": 26.499,
+ "lines": [
+  {
+   "who": "ROHAN",
+   "text": "Welcome to our stall! Today's question: whose zodiac is better, Indian or Chinese?",
+   "start": 0.377,
+   "end": 5.706,
+   "words": [
+    {
+     "w": "Welcome",
+     "start": 0.377,
+     "end": 0.739
+    },
+    {
+     "w": "to",
+     "start": 0.75,
+     "end": 0.892
+    },
+    {
+     "w": "our",
+     "start": 0.903,
+     "end": 1.035
+    },
+    {
+     "w": "stall",
+     "start": 1.046,
+     "end": 1.517
+    },
+    {
+     "w": "Today's",
+     "start": 1.868,
+     "end": 2.131
+    },
+    {
+     "w": "question",
+     "start": 2.142,
+     "end": 2.537
+    },
+    {
+     "w": "whose",
+     "start": 3.085,
+     "end": 3.25
+    },
+    {
+     "w": "zodiac",
+     "start": 3.261,
+     "end": 3.732
+    },
+    {
+     "w": "is",
+     "start": 3.743,
+     "end": 3.853
+    },
+    {
+     "w": "better",
+     "start": 3.864,
+     "end": 4.203
+    },
+    {
+     "w": "Indian",
+     "start": 4.598,
+     "end": 5.015
+    },
+    {
+     "w": "or",
+     "start": 5.026,
+     "end": 5.136
+    },
+    {
+     "w": "Chinese",
+     "start": 5.146,
+     "end": 5.706
+    }
+   ]
+  },
+  {
+   "who": "AARAV",
+   "text": "Indian, obviously. I'm a Simha, a Leo, and proud of it.",
+   "start": 6.121,
+   "end": 10.0,
+   "words": [
+    {
+     "w": "Indian",
+     "start": 6.121,
+     "end": 6.466
+    },
+    {
+     "w": "obviously",
+     "start": 6.617,
+     "end": 7.188
+    },
+    {
+     "w": "I'm",
+     "start": 7.533,
+     "end": 7.597
+    },
+    {
+     "w": "a",
+     "start": 7.597,
+     "end": 7.64
+    },
+    {
+     "w": "Simha",
+     "start": 7.641,
+     "end": 8.158
+    },
+    {
+     "w": "a",
+     "start": 8.503,
+     "end": 8.578
+    },
+    {
+     "w": "Leo",
+     "start": 8.578,
+     "end": 9.031
+    },
+    {
+     "w": "and",
+     "start": 9.289,
+     "end": 9.408
+    },
+    {
+     "w": "proud",
+     "start": 9.419,
+     "end": 9.785
+    },
+    {
+     "w": "of",
+     "start": 9.785,
+     "end": 9.85
+    },
+    {
+     "w": "it",
+     "start": 9.85,
+     "end": 10.0
+    }
+   ]
+  },
+  {
+   "who": "WEI",
+   "text": "Please, bro. I'm a Dragon. Powerful, lucky, legendary.",
+   "start": 10.335,
+   "end": 15.592,
+   "words": [
+    {
+     "w": "Please",
+     "start": 10.335,
+     "end": 10.871
+    },
+    {
+     "w": "bro.",
+     "start": 11.094,
+     "end": 11.585
+    },
+    {
+     "w": "I'm",
+     "start": 11.887,
+     "end": 12.188
+    },
+    {
+     "w": "a",
+     "start": 12.188,
+     "end": 12.266
+    },
+    {
+     "w": "Dragon",
+     "start": 12.266,
+     "end": 12.88
+    },
+    {
+     "w": "Powerful",
+     "start": 13.181,
+     "end": 13.907
+    },
+    {
+     "w": "lucky",
+     "start": 14.085,
+     "end": 14.677
+    },
+    {
+     "w": "legendary",
+     "start": 14.833,
+     "end": 15.592
+    }
+   ]
+  },
+  {
+   "who": "KABIR",
+   "text": "Or you're both just reading horoscopes at a college fest.",
+   "start": 16.01,
+   "end": 18.816,
+   "words": [
+    {
+     "w": "Or",
+     "start": 16.01,
+     "end": 16.234
+    },
+    {
+     "w": "you're",
+     "start": 16.234,
+     "end": 16.422
+    },
+    {
+     "w": "both",
+     "start": 16.422,
+     "end": 16.764
+    },
+    {
+     "w": "just",
+     "start": 16.764,
+     "end": 17.024
+    },
+    {
+     "w": "reading",
+     "start": 17.024,
+     "end": 17.342
+    },
+    {
+     "w": "horoscopes",
+     "start": 17.342,
+     "end": 17.896
+    },
+    {
+     "w": "at",
+     "start": 17.896,
+     "end": 18.026
+    },
+    {
+     "w": "a",
+     "start": 18.026,
+     "end": 18.073
+    },
+    {
+     "w": "college",
+     "start": 18.073,
+     "end": 18.403
+    },
+    {
+     "w": "fest",
+     "start": 18.403,
+     "end": 18.816
+    }
+   ]
+  },
+  {
+   "who": "ROHAN",
+   "text": "Kabir, not helping. Let's call the experts.",
+   "start": 19.266,
+   "end": 21.887,
+   "words": [
+    {
+     "w": "Kabir",
+     "start": 19.266,
+     "end": 19.694
+    },
+    {
+     "w": "not",
+     "start": 19.705,
+     "end": 19.957
+    },
+    {
+     "w": "helping",
+     "start": 19.968,
+     "end": 20.439
+    },
+    {
+     "w": "Let's",
+     "start": 20.779,
+     "end": 20.933
+    },
+    {
+     "w": "call",
+     "start": 20.944,
+     "end": 21.174
+    },
+    {
+     "w": "the",
+     "start": 21.185,
+     "end": 21.251
+    },
+    {
+     "w": "experts",
+     "start": 21.262,
+     "end": 21.887
+    }
+   ]
+  },
+  {
+   "who": "ROHAN",
+   "text": "Pandit Rao! Master Lin!",
+   "start": 22.732,
+   "end": 24.579,
+   "words": [
+    {
+     "w": "Pandit",
+     "start": 22.732,
+     "end": 23.214
+    },
+    {
+     "w": "Rao",
+     "start": 23.225,
+     "end": 23.565
+    },
+    {
+     "w": "Master",
+     "start": 23.888,
+     "end": 24.25
+    },
+    {
+     "w": "Lin",
+     "start": 24.261,
+     "end": 24.579
+    }
+   ]
+  }
+ ]
+}
